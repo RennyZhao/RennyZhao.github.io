@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-20T02:42:38.596Z</updated>
+  <updated>2019-10-20T02:51:39.805Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>hello 大圈儿</title>
-    <link href="http://yoursite.com/2019/10/05/hello/"/>
-    <id>http://yoursite.com/2019/10/05/hello/</id>
-    <published>2019-10-05T11:54:55.000Z</published>
-    <updated>2019-10-20T02:42:38.596Z</updated>
+    <link href="http://yoursite.com/2019/10/20/hello/"/>
+    <id>http://yoursite.com/2019/10/20/hello/</id>
+    <published>2019-10-20T11:54:55.000Z</published>
+    <updated>2019-10-20T02:51:39.805Z</updated>
     
-    <content type="html"><![CDATA[<p>大概是在今年三月份时候，隐约感觉要转行了，那时刚好在知乎上看到一个在国外读医学女博后记录了自己6个月以来的转行之路。于是自己也做了一番计划，第一步就是想搭建一个个人网站，然而事情拖延到现在才搭建了一个十分简陋的个人网站，然后又拖拉了一周之后才开始写这第一篇博客。博客的定位是写一些技术贴，偶尔记录一下杂想，今天就暂时记录一下吧，在工作定下来之后…</p><a id="more"></a><h3 id="转行缘起"><a href="#转行缘起" class="headerlink" title="转行缘起"></a>转行缘起</h3><p>在研一下学期，我上了一门《机器视觉》的选修课，这门课主要介绍双目视觉的基本知识，考核方式主要是组队做project。由于是选修课，组内其他人对此热情不高，于是我独挑大梁做起了双目测距。经历了两周，在理解了测距原理之后，最终调用的是现有第三方库，完成了这一项目。至此，算是快速对计算机视觉入了个门，也激发起了个人的极大兴趣，然后开始了在这一方面的摸索和知识积累。</p><h3 id="具体实施"><a href="#具体实施" class="headerlink" title="具体实施"></a>具体实施</h3><p>大概在今年3月份时候，由于研究课题无法继续进行，一度情绪十分崩溃。那时候感觉要为找工作做打算了，于是做了一些计划。在coursera上花了一周时间快速学习了python，然后就开始找实习了。因为研究生期间做的是三维相关的，所以那时候认定了自动驾驶和机器人这两个领域。幸运的是，找到了车联网的实习，在实习期间也锻炼了相关的能力，最终转正留用。至此，找工作告一段落。</p><h3 id="继续练功"><a href="#继续练功" class="headerlink" title="继续练功"></a>继续练功</h3><p>在自动驾驶的视觉感知方面，我是机械转行过去的，自然CS基础是十分不好的。接下来在正式工作入职的前一年就要狂补相关知识以及锻炼各方面的能力了。</p><ul><li><strong>CS基础相关</strong></li></ul><ol><li>MIT算法课程 CS6006</li><li>Princeton数据结构</li><li>C++ prime</li></ol><hr><ul><li><strong>神经网络相关</strong></li></ul><ol><li>吴恩达机器学习</li><li>二刷CS231n，课后实践结合</li><li>周志华西瓜书</li><li>biShop 机器学习概率相关</li></ol><hr><ul><li><strong>竞赛实践相关</strong></li></ul><ol><li>kaggle</li><li>leetcode</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>大概是在今年三月份时候，隐约感觉要转行了，那时刚好在知乎上看到一个在国外读医学女博后记录了自己6个月以来的转行之路。于是自己也做了一番计划，第一步就是想搭建一个个人网站，然而事情拖延到现在才搭建了一个十分简陋的个人网站，然后又拖拉了一周之后才开始写这第一篇博客。博客的定位是写一些技术贴，偶尔记录一下杂想，今天就暂时记录一下吧，在工作定下来之后…</p><a id="more"></a><h3 id="转行缘起"><a href="#转行缘起" class="headerlink" title="转行缘起"></a>转行缘起</h3><p>在研一下学期，我上了一门《机器视觉》的选修课，这门课主要介绍双目视觉的基本知识，考核方式主要是组队做project。由于是选修课，组内其他人对此热情不高，于是我独挑大梁做起了双目测距。经历了两周，在理解了测距原理之后，最终调用的是现有第三方库，完成了这一项目。至此，算是快速对计算机视觉入了个门，也激发起了个人的极大兴趣，然后开始了在这一方面的摸索和知识积累。</p><h3 id="具体实施"><a href="#具体实施" class="headerlink" title="具体实施"></a>具体实施</h3><p>大概在今年3月份时候，由于研究课题无法继续进行，一度情绪十分崩溃。那时候感觉要为找工作做打算了，于是做了一些计划。在coursera上花了一周时间快速学习了python，然后就开始找实习了。因为研究生期间做的是三维相关的，所以那时候认定了自动驾驶和机器人这两个领域。幸运的是，找到了车联网的实习，在实习期间也锻炼了相关的能力，最终转正留用。至此，找工作告一段落。</p><h3 id="继续练功"><a href="#继续练功" class="headerlink" title="继续练功"></a>继续练功</h3><p>在自动驾驶的视觉感知方面，由于是机械转行，CS基础十分欠缺。接下来在正式工作入职的前一年就要狂补相关知识以及锻炼各方面的能力了。</p><ul><li><strong>CS基础相关</strong></li></ul><ol><li>MIT算法课程 CS6006</li><li>Princeton数据结构</li><li>C++ prime</li></ol><ul><li><strong>神经网络相关</strong></li></ul><ol><li>吴恩达机器学习</li><li>二刷CS231n，课后实践结合</li><li>周志华西瓜书</li><li>biShop 机器学习概率相关</li></ol><ul><li><strong>竞赛实践相关</strong></li></ul><ol><li>kaggle</li><li>leetcode</li></ol>]]></content>
     
     <summary type="html">
     
