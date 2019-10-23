@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-23T09:25:42.030Z</updated>
+  <updated>2019-10-23T09:44:19.938Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/10/23/a/"/>
     <id>http://yoursite.com/2019/10/23/a/</id>
     <published>2019-10-23T08:29:06.000Z</published>
-    <updated>2019-10-23T09:25:42.030Z</updated>
+    <updated>2019-10-23T09:44:19.938Z</updated>
     
-    <content type="html"><![CDATA[<p>here is test</p><pre class="mermaid">graph TD;    A-->B;    A-->C;    B-->D;    C-->D;</pre><p>note that 快好吧，what hapened</p>]]></content>
+    <content type="html"><![CDATA[<p>here is test</p><pre class="mermaid">graph TD;    A-->B;    A-->C;    B-->D;    C-->D;</pre><p>ok, fine, test</p>]]></content>
     
     <summary type="html">
     
@@ -35,8 +35,7 @@
     A--&gt;C;
     B--&gt;D;
     C--&gt;D;&lt;/pre&gt;
-
-&lt;p&gt;note that 快好吧，what hapened&lt;/p&gt;
+&lt;p&gt;ok, fine, test&lt;/p&gt;
 
       
     
